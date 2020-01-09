@@ -1,0 +1,5 @@
+1) Zaznaczasz warstwę, Layer -> create smart object
+2) Window -> timeline
+3) zmiana rozmiaru/szerokości:
+	ukrywasz jedną warstwę
+	narzędzie "krzyżyk" (to główne narzędzie) i klikasz na obiekt, a następnie zaznaczasz na pasku na górze "auto select" i klikasz na brzeg zaznaczenia
