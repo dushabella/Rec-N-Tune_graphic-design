@@ -1,2 +1,0 @@
-The app shouldn't contain temp changing - it's not necessary. 
-Therefore, change the .xd prototype and regenarate related graphics.
